@@ -1,3 +1,42 @@
-body{
-    background-color: aqua;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header_social_icons{
+    background-color: aqua;
+    opacity: 80%;
+    justify-content: right;
+}
+/* Navigation Information Opened */
+.navigating{
+    justify-content: right;
+}
+.nav_logo{
+    text-align: center;
+    color: #FFF;
+    font-weight: bold;
+    /* margin-left:5px; */
+}
+nav ul li a{
+    color: #FFF !important;
+    font-weight: bold;
+}
+.navigation_bar{
+background-color: #2F3F67;
+}
+/* Navigation Information Closed */
+
+
+/* Carousel Information Opened */
+.Carousel_title{
+    font-size: 60px;
+}
+.carousel_description{
+    font-size: 30px;
+}
+/* Carousel Information Closed */
