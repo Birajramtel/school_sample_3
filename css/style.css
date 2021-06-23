@@ -13,17 +13,19 @@ body{
     justify-content: right;
 }
 /* Navigation Information Opened */
-.navigating{
-    justify-content: right;
-}
 .nav_logo{
     text-align: center;
     color: #FFF;
     font-weight: bold;
+    padding-top: 65px;
     /* margin-left:5px; */
 }
 nav ul li a{
     color: #FFF !important;
+    font-weight: bold;
+}
+nav ul li a:hover{
+    color: #2F3F67 !important;
     font-weight: bold;
 }
 .navigation_bar{
@@ -34,9 +36,23 @@ background-color: #2F3F67;
 
 /* Carousel Information Opened */
 .Carousel_title{
-    font-size: 60px;
+    font-size: 50px;
 }
 .carousel_description{
-    font-size: 30px;
+    font-size: 25px;
 }
 /* Carousel Information Closed */
+
+/* Heading and Paragraph Changes Opened */
+.heading{
+    text-align: center;
+}
+.para{
+    justify-content: center;
+    text-align: justify;
+}
+.horizontal_line{
+    box-sizing: 2px 19px 2px #272727;
+}
+
+/* Heading and Paragraph Changes Closed */
