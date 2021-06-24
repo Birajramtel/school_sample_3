@@ -60,5 +60,7 @@ background-color: #2F3F67;
 /* Listing Items Opened */
 .listing_items{
     list-style: number;
+    padding-left: 10px;
+    padding: 5px;
 }
 /* Listing Items Closed */
