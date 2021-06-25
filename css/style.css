@@ -11,14 +11,13 @@ body{
 .header_social_icons{
     background-color: aqua;
     opacity: 80%;
-    justify-content: right;
 }
 /* Navigation Information Opened */
 .nav_logo{
-    text-align: center;
+    /* text-align: center; */
     color: #FFF;
     font-weight: bold;
-    padding-top: 65px;
+    /* padding-top: 65px; */
     /* margin-left:5px; */
 }
 nav ul li a{
@@ -37,10 +36,12 @@ background-color: #2F3F67;
 
 /* Carousel Information Opened */
 .Carousel_title{
-    font-size: 50px;
+    /* font-size: 20px; */
+    font-size:4.4vw;
 }
 .carousel_description{
-    font-size: 25px;
+    /* font-size: 10px; */
+    font-size:2.4vw;
 }
 /* Carousel Information Closed */
 
@@ -64,3 +65,9 @@ background-color: #2F3F67;
     padding: 5px;
 }
 /* Listing Items Closed */
+
+/* Footer Items Opened */
+.copyright_text{
+    font-size:12px;
+}
+/* Footer Items Closed */
