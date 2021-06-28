@@ -70,3 +70,10 @@ background-color: #2F3F67;
     font-size:12px;
 }
 /* Footer Items Closed */
+
+/* Side Gallery Opened */
+.side_gallery{
+    color: #FFF;
+    font-weight: bold;
+}
+/* Side Gallery Closed */
